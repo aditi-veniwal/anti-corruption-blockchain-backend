@@ -1,0 +1,7 @@
+{
+  "name": "hardhat-project",
+  "type": "module",
+  "devDependencies": {
+    "hardhat": "^3.0.6"
+  }
+}
